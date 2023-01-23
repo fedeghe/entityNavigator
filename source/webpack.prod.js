@@ -5,7 +5,7 @@ const TerserPlugin = require("terser-webpack-plugin");
 
 module.exports = {
     entry: {
-        index: path.resolve(__dirname, './VGrid/index.jsx'),
+        index: path.resolve(__dirname, './index.jsx'),
     },
     output: {
         path: path.resolve(__dirname, '../dist'),
