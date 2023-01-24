@@ -1,5 +1,5 @@
 {
-    "name": "entityNavigator",
+    "name": "entitynavigator",
     "version": "0.0.1",
     "description": "A react utility to display entities correlation",
     "main": "dist/index.js",
