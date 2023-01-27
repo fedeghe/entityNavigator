@@ -2,6 +2,6 @@ import React from 'react';
 
 export default () => {
     return (
-        <div>Entity Navigator </div>
+        <div>Entity Navigator</div>
     )
 }
